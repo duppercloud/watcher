@@ -9,7 +9,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/tillberg/ansi-log"
+	"github.com/duppercloud/ansi-log"
 
 	"gopkg.in/fsnotify.v1"
 )

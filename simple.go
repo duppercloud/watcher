@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/tillberg/stringset"
+	"github.com/duppercloud/stringset"
 )
 
 func WatchPath(path string) (<-chan PathEvent, error) {
