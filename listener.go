@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tillberg/stringset"
+	"github.com/duppercloud/stringset"
 )
 
 type PathEvent struct {
